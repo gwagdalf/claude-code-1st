@@ -137,6 +137,9 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.qwen/.env
+.qwen/settings.json
+.qwen/settings.json.orig
 .venv
 env/
 venv/
